@@ -174,7 +174,7 @@
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/saptak-chawade-2690b323a">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
